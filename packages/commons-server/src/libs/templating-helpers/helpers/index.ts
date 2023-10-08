@@ -47,6 +47,7 @@ import indexOf from './indexOf';
 import int from './int';
 import ipv4 from './ipv4';
 import ipv6 from './ipv6';
+import javascriptFunction from './javascriptFunction';
 import join from './join';
 import lastName from './lastName';
 import lat from './lat';
@@ -160,5 +161,6 @@ export const Helpers = {
   tld,
   toFixed,
   uppercase,
-  zipcode
+  zipcode,
+  javascriptFunction
 };
